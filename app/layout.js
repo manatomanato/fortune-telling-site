@@ -34,6 +34,9 @@ export const metadata = {
     title: "今日の運勢・無料占い | 星座ランキング",
     description: "毎日更新！12星座の運勢ランキングと無料占い。恋愛運・金運・仕事運をチェック！",
     images: ["https://your-site.vercel.app/og-image.png"], // 🔹 OGP画像
+ },
+  verification: {
+    google: "gBm-LGmGOtUJEHYv62-GbWcIMTdC9GfRHzRA-YYwq-c", // ✅ Google Search Console の所有権確認
   },
 };
 
